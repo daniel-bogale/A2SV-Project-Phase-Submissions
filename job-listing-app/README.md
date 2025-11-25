@@ -120,7 +120,7 @@ The main landing page displays all job opportunities in a clean, card-based layo
 ### Job Description Page - Example 1 (Social Media Manager)
 The job description page features a comprehensive two-column layout. The left column contains the job description, responsibilities (with checkmark icons), ideal candidate requirements, and location details. The right column displays key information including posting date, deadline, location, start/end dates, categories, and required skills - all with color-coded icons for easy scanning.
 
-![Job Description - Social Media Manager](screenshots/job-description-1.png)
+![Job Description - Social Media Manager](screenshots/social-media-manager.png)
 
 ---   
 

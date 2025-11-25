@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+:root {
+  --primary-teal: #26A4FF;
+  --primary-yellow: #FFB836;
+  --text-dark: #25324B;
+  --text-gray: #7C8493;
+  --border-gray: #D6DDEB;
+  --bg-light: #F8F8FD;
+}
+
+body {
+  font-family: 'Epilogue', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff;
+  color: var(--text-dark);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+}
+
+.badge-green {
+  background-color: rgb(240 253 244);
+  color: rgb(22 163 74);
+  border: 1px solid rgb(187 247 208);
+}
+
+.badge-yellow {
+  background-color: rgb(254 252 232);
+  color: rgb(217 119 6);
+  border: 1px solid rgb(253 230 138);
+}
+
+.badge-purple {
+  background-color: rgb(250 245 255);
+  color: rgb(147 51 234);
+  border: 1px solid rgb(233 213 255);
+}
+
+.badge-orange {
+  background-color: rgb(255 247 237);
+  color: rgb(234 88 12);
+  border: 1px solid rgb(254 215 170);
+}
+
+.job-card {
+  background-color: white;
+  border-radius: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid rgb(243 244 246);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.job-card:hover {
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.btn-primary {
+  background-color: rgb(37 99 235);
+  color: white;
+  padding: 0.625rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: rgb(29 78 216);
+}
+
+.section-title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 900;
+  color: rgb(17 24 39);
+  margin-bottom: 1rem;
+}

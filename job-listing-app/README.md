@@ -115,21 +115,20 @@ job-listing-app/
 ### Job List Page (Opportunities Dashboard)
 The main landing page displays all job opportunities in a clean, card-based layout. Each card includes the company avatar, job title, location, description preview, and category badges. The header shows the total number of results and includes a sort dropdown for filtering options.
 
-![Job List Page](screenshots/job-list-page.png)
-
+![Job List Page](job-listing-app/screenshots/job-list-page.png)
 ---
 
 ### Job Description Page - Example 1 (Social Media Manager)
 The job description page features a comprehensive two-column layout. The left column contains the job description, responsibilities (with checkmark icons), ideal candidate requirements, and location details. The right column displays key information including posting date, deadline, location, start/end dates, categories, and required skills - all with color-coded icons for easy scanning.
 
-![Job Description - Social Media Manager](screenshots/job-description-1.png)
+![Job Description - Social Media Manager](job-listing-app/screenshots/job-description-1.png)
 
----
+---   
 
 ### Job Description Page - Example 2 (Web Developer)
 Another example of the job description page showing different job data. The layout remains consistent while displaying unique content for each position. Notice the different category badges (IT, Development) and required skills (HTML, CSS, JavaScript, PHP) specific to this role.
 
-![Job Description - Web Developer](screenshots/job-description-2.png)
+![Job Description - Web Developer](job-listing-app/screenshots/web-developer.png)
 
 ---
 

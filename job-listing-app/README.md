@@ -131,21 +131,6 @@ Another example of the job description page showing different job data. The layo
 
 ---
 
-## 📊 Grading Criteria
-
-This project fulfills all the requirements for **Task 6: Building Job Listing Application**:
-
-| Criteria | Points | Status |
-|----------|--------|--------|
-| Create a functional React component that represents the card | 1 | ✅ Complete |
-| Generate and add dummy data for fields like name, title, and description | 2 | ✅ Complete |
-| Create the whole page from the Figma file | 3 | ✅ Complete |
-| Incorporate the provided avatar image URL into the card | 1 | ✅ Complete |
-| Apply Tailwind CSS classes to style the card according to the provided design | 6 | ✅ Complete |
-| Maintain clean, well-organized code throughout the task | 2 | ✅ Complete |
-| Provide a screenshot of every page in the README file with a description | Mandatory | ✅ Complete |
-| **Total** | **15** | **15/15** |
-
 ### Implementation Highlights
 
 1. **Functional React Component** (1 point)
